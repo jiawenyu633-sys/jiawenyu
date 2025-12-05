@@ -2,7 +2,7 @@
 toc: false
 title: "Jiawen Yu"
 about:
-  template: trestles
+  template: marquee
   image: jia.jpg
   links:
     - icon: github
@@ -17,12 +17,10 @@ about:
     - icon: Resume
       text: CV
       url: "CV.pdf"
-   
-   
 ---
+[CV](/CV.pdf)
 
 I am a senior Stats major at UCLA with interests in Math and Science. Outside of class, I love watching films, swimming and basetball. Welcome to my website.
-
 
 ## Education
 

@@ -7,7 +7,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: Project.qmd
+        text: Project
+      
+page-footer:
+rights: "&copy; 2025, Jiawen Yu"
 
 format:
   html:
@@ -16,6 +20,6 @@ format:
       - brand
     css: styles.css
     toc: true
-
-editor: visual
-
+    
+execute: 
+  freeze: auto

@@ -1,13 +1,39 @@
 ---
+toc: false
 title: "Jiawen Yu"
+about:
+  template: trestles
+  image: jia.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/jiawenyu633-sys
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/oliver-pan-07373a2b9/
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:jyu03@g.ucla.edu"
+    - icon: Resume
+      text: CV
+      url: "CV.pdf"
+   
+   
 ---
 
-This is a Quarto website.
+I am a senior Stats major at UCLA with interests in Math and Science. Outside of class, I love watching films, swimming and basetball. Welcome to my website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+## Education
 
-1+1+1
+University of California, Los Angeles \| Los Angeles, CA\
+B.S. in Statistics and Data Science \| Expected March 2026
+
+Santa Monica College \| Santa Monica, CA\
+Computer Science \| June 2024
+
+## Experience
+
+Liren Electromechanical(Bazhou) Co., Ltd. \| Data Analyst \| June 2025 – August 2025
+
+Bazhou Jinmao Painting Tools Co., Ltd. \| Coding Instructor \| December 2024 – January 2025

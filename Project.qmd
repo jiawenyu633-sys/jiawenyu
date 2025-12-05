@@ -1,0 +1,27 @@
+---
+title: "UCLA Projects"
+toc: false
+---
+
+## Academic Projects
+
+### Predicting Skin Cancer Status — STAT 101C, UCLA
+- Built classification models (logistic, Ridge, LASSO, Random Forest) to predict benign vs. malignant skin cancer using a 50,000-observation dataset with 50 predictors.
+- Cleaned and imputed missing values (mode for categorical, mean for numerical) to handle a 7–9% NA rate while retaining as much information as possible.
+- Performed feature selection using GLM, AIC, and variable importance plots, reducing to 20 key predictors and encoding categorical variables with dummy variables.
+- Tuned Ridge regression hyper parameters via K-fold cross-validation; final model achieved about 0.607 on the public Kaggle leaderboard and ranked in the top 5.
+
+
+
+
+Plesase see my [Projects](/Project 1.pdf)
+
+### Climate Change & Wildfires in the U.S.
+- Analyzed long-term U.S. temperature and precipitation data to show significant warming and more frequent extreme rainfall since the 1980s.
+- Combined federal climate indicators with wildfire trend data to link rising temperatures, changing precipitation patterns, and large-fire frequency across western regions.
+- Interpreted regional fire–climate correlation diagrams to explain how drought severity, vegetation growth, and heat interact to create peaks in wildfire activity.
+- Proposed policy recommendations on low-carbon transport, land-use planning, and satellite-based vegetation monitoring to mitigate climate-driven wildfire risk.
+
+
+Please see my [Projects](/Project 2.pdf)
+

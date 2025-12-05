@@ -1,7 +1,21 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
+    "objectID": "Project.html",
+    "href": "Project.html",
+    "title": "UCLA Projects",
+    "section": "",
+    "text": "Built classification models (logistic, Ridge, LASSO, Random Forest) to predict benign vs. malignant skin cancer using a 50,000-observation dataset with 50 predictors.\nCleaned and imputed missing values (mode for categorical, mean for numerical) to handle a 7–9% NA rate while retaining as much information as possible.\nPerformed feature selection using GLM, AIC, and variable importance plots, reducing to 20 key predictors and encoding categorical variables with dummy variables.\nTuned Ridge regression hyper parameters via K-fold cross-validation; final model achieved about 0.607 on the public Kaggle leaderboard and ranked in the top 5.\n\nPlesase see my Projects\n\n\n\n\nAnalyzed long-term U.S. temperature and precipitation data to show significant warming and more frequent extreme rainfall since the 1980s.\nCombined federal climate indicators with wildfire trend data to link rising temperatures, changing precipitation patterns, and large-fire frequency across western regions.\nInterpreted regional fire–climate correlation diagrams to explain how drought severity, vegetation growth, and heat interact to create peaks in wildfire activity.\nProposed policy recommendations on low-carbon transport, land-use planning, and satellite-based vegetation monitoring to mitigate climate-driven wildfire risk.\n\nPlease see my Projects"
+  },
+  {
+    "objectID": "Project.html#academic-projects",
+    "href": "Project.html#academic-projects",
+    "title": "UCLA Projects",
+    "section": "",
+    "text": "Built classification models (logistic, Ridge, LASSO, Random Forest) to predict benign vs. malignant skin cancer using a 50,000-observation dataset with 50 predictors.\nCleaned and imputed missing values (mode for categorical, mean for numerical) to handle a 7–9% NA rate while retaining as much information as possible.\nPerformed feature selection using GLM, AIC, and variable importance plots, reducing to 20 key predictors and encoding categorical variables with dummy variables.\nTuned Ridge regression hyper parameters via K-fold cross-validation; final model achieved about 0.607 on the public Kaggle leaderboard and ranked in the top 5.\n\nPlesase see my Projects\n\n\n\n\nAnalyzed long-term U.S. temperature and precipitation data to show significant warming and more frequent extreme rainfall since the 1980s.\nCombined federal climate indicators with wildfire trend data to link rising temperatures, changing precipitation patterns, and large-fire frequency across western regions.\nInterpreted regional fire–climate correlation diagrams to explain how drought severity, vegetation growth, and heat interact to create peaks in wildfire activity.\nProposed policy recommendations on low-carbon transport, land-use planning, and satellite-based vegetation monitoring to mitigate climate-driven wildfire risk.\n\nPlease see my Projects"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
@@ -11,6 +25,20 @@
     "href": "index.html",
     "title": "Jiawen Yu",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n1+1+1"
+    "text": "I am a senior Stats major at UCLA with interests in Math and Science. Outside of class, I love watching films, swimming and basetball. Welcome to my website."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Jiawen Yu",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | Expected March 2026\nSanta Monica College | Santa Monica, CA\nComputer Science | June 2024"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Jiawen Yu",
+    "section": "Experience",
+    "text": "Experience\nLiren Electromechanical(Bazhou) Co., Ltd. | Data Analyst | June 2025 – August 2025\nBazhou Jinmao Painting Tools Co., Ltd. | Coding Instructor | December 2024 – January 2025"
   }
 ]
